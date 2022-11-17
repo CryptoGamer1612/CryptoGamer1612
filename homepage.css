@@ -1,0 +1,53 @@
+body {
+    background:rgb(42, 47, 53);
+}
+h1 {
+    font-family: 'M PLUS Rounded 1c';
+    font-size: 27px;
+    color: blueviolet;
+
+    background-image: linear-gradient(to right, rgb(162, 0, 255), rgb(74, 15, 236));
+    background-size: 100% 4px;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    line-height: 45px;
+
+    position: top;
+}
+#LoginButton {
+    background: linear-gradient(to right, rgb(162, 0, 255), rgb(74, 15, 236));
+    font-family: 'M PLUS Rounded 1c';
+    height: 32px;
+    width: 56px;
+    border-radius: 1000px;
+    border: none;
+    position: fixed;
+    top: 1.25rem; right: 1.25rem;
+}
+#DiscordServerLinkButton {
+    font-family: 'M PLUS Rounded 1c';
+}
+.RoundedButtons {
+    float: left;
+    border: 15px;
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+    clip-path: circle()
+}
+/*#DiscordButton {
+    position: fixed;
+    top: 4.5rem;
+    left: 0.5rem;
+}
+#TwitchButton {
+    position: fixed;
+    top: 4.5rem;
+    left: 13.5rem;
+}
+#InstagramButton {
+    position: fixed;
+    top: 4.5rem;
+    right: 0.5rem;
+}*/
+/*top: 17.5rem;*/
