@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CryptoGamer1612
 - 👀 I’m interested in Web- and Python development
-- 🌱 I’m currently learning HTML, CSS, PHP, and JS
+- 🌱 I’m currently learning HTML, CSS, PHP, JS and Python
 - 💞️ I’m looking to collaborate on my own Website
 - 📫 How to reach me CryptoGamer1612@outlook.de
 
